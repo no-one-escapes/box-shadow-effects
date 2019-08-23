@@ -1,6 +1,6 @@
 -----html-----
 
-<p class="span-shadow"><span>›‘‘≈ “ 1</span><span>›‘‘≈ “ 2</span><span>›‘‘≈ “ 3</span><span>›‘‘≈ “ 4</span></p>
+<p class="span-shadow"><span>effect 1</span><span>effect 2</span><span>effect 3</span><span>effect 4</span></p>
 
 -----css-----
 
